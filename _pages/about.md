@@ -7,7 +7,7 @@ subtitle: PhD candidate
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: #prof_pic.jpg
   address: >
     <p>KAUST</p>
     <p>Thuwal, Makkah 23955</p>
